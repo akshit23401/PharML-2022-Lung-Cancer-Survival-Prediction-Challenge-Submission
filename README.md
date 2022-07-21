@@ -7,6 +7,7 @@ Additionally, representations learned by fitting Survival Machine Learning model
 
 In this challenge, you will predict the risk of overall death using clinical EHR data from around 75,000 advanced NSCLC patients provided by Flatiron Health. The features consist of patient characteristics such as demographic information, vital sign data, and biomarkers.
 
-I have implemented Survival Machine Learning models to predict the risk of death for patients with Non-Small Cell Lung Cancer
-Trained various models on dataset of 32000 patients with 25 features for each patient to predict the number of days before their demise based on health conditions and other features
+I have implemented Survival Machine Learning models to predict the risk of death for patients with Non-Small Cell Lung Cancer.
+Trained various models on dataset of 32000 patients with 25 features for each patient to predict the number of days before their demise based on health conditions and other features.
+
 Attained concordance index of 0.58 on the test dataset using CatBoost algorithm and various optimization techniques
